@@ -1,0 +1,3 @@
+for data in db do
+	stuff(data)
+end
