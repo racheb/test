@@ -1,0 +1,3 @@
+object1:	1
+object2:	23
+object3:	442
